@@ -1,8 +1,7 @@
 Olá!
 
-Me chamo Enzo, sou estudante de SI;
-Apaixonado por futebol;
-Cervejeiro de sangue.
+Me chamo Enzo, sou estudante de SI na Una - Cristiano Machado em BH
+Curto uns joguinhos e apaixonado por futebol
 
 
 <!---
