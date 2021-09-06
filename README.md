@@ -1,7 +1,9 @@
 Olá!
 
-Me chamo Enzo, sou estudante de SI na Una - Cristiano Machado em BH
-Curto uns joguinhos e apaixonado por futebol
+Me chamo Enzo, sou estudante de SI na Una - Cristiano Machado em BH :computer:
+- Curto uns joguinhos :video_game: 
+- Apaixonado por futebol :soccer:
+- Tomador de cerveja profissional :beer:
 
 
 <!---
